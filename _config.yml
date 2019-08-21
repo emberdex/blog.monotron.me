@@ -1,12 +1,11 @@
-title: Texture Theme
-author: GitHub User
-email: your-email@domain.com
+title: Toby's Blog
+author: Toby Jones
+email: hi+blogmail@monotron.me
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Toby's blog. I like to write about tech, amongst other things.
+  I used to be an Android developer, now I build APIs.
 show_excerpts: true # set to true to show excerpts on the homepage
-baseurl: /texture
+baseurl: ""
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -15,8 +14,8 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
+  title: Toby's Blog
+  tagline: I write about tech and stuff
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
@@ -24,9 +23,9 @@ texture:
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+    twitter: monotron_
+    github:  monotron
+    linkedIn: in/toby-jones-a82165151
     rss: rss
  
 
