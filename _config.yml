@@ -18,7 +18,7 @@ texture:
   tagline: I write about tech and stuff
   date_format: "%b %-d, %Y"
   style: blue
-  showNav: false
+  showNav: true
   showPicker: false
 
   # generate social links in footer
