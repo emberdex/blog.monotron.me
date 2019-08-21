@@ -14,12 +14,12 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Toby's Blog
+  title: Toby Jones
   tagline: I write about tech and stuff
   date_format: "%b %-d, %Y"
-  style: black
+  style: blue
   showNav: false
-  showPicker: true
+  showPicker: false
 
   # generate social links in footer
   social_links:
