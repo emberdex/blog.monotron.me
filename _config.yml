@@ -20,6 +20,8 @@ texture:
   style: blue
   showNav: true
   showPicker: false
+  showFavicon: true
+  faviconPath: "assets/img/favicon.ico"
 
   # generate social links in footer
   social_links:
